@@ -1,0 +1,32 @@
+.App {
+  text-align: center;
+}
+#main {
+    height: 100vh;
+}
+.centered {
+  font-family: 'Dancing Script', cursive;
+  position: absolute;
+  font-size: 100px;
+  color: rgb(255, 255, 255);
+  top: 60%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.res {
+  position: absolute;
+  font-size: 40px;
+  color: rgb(255, 255, 255);
+  top: 75%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.about-us {
+  font-family: 'Dancing Script', cursive;
+  position: absolute;
+  font-size: 60px;
+  color: rgb(255, 255, 255);
+  top: 180%;
+  right:5%;
+  transform: translate(-50%, -50%);
+}
